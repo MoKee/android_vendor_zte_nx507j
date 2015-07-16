@@ -1,0 +1,1 @@
+# android_device_nubia_z7mini_proprietary
