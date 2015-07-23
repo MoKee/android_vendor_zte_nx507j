@@ -116,6 +116,7 @@ PRODUCT_COPY_FILES += \
     vendor/ZTE/NX507J/proprietary/vendor/lib/rfsa/adsp/libdspCV_skel.so:system/vendor/lib/rfsa/adsp/libdspCV_skel.so \
     vendor/ZTE/NX507J/proprietary/vendor/lib/rfsa/adsp/libfastcvadsp_skel.so:system/vendor/lib/rfsa/adsp/libfastcvadsp_skel.so \
     vendor/ZTE/NX507J/proprietary/vendor/lib/rfsa/adsp/libfastcvadsp.so:system/vendor/lib/rfsa/adsp/libfastcvadsp.so \
+    vendor/ZTE/NX507J/proprietary/vendor/lib/rfsa/adsp/libscveT2T_skel.so:system/vendor/lib/rfsa/adsp/libscveT2T_skel.so \
     vendor/ZTE/NX507J/proprietary/bin/btnvtool:system/bin/btnvtool \
     vendor/ZTE/NX507J/proprietary/bin/hci_qcomm_init:system/bin/hci_qcomm_init \
     vendor/ZTE/NX507J/proprietary/bin/dun-server:system/bin/dun-server \
