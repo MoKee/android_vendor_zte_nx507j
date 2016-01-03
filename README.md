@@ -1,1 +1,1 @@
-# android_device_nubia_z7mini_proprietary
+# android_vendor_nubia_nx507j

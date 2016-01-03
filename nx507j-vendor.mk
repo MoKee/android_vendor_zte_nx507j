@@ -19,15 +19,25 @@ DEVICE_PACKAGE_OVERLAYS += vendor/nubia/nx507j/overlay
 
 PRODUCT_PACKAGES += \
     libHevcSwDecoder \
-    com.qualcomm.location \
-    com.qualcomm.msapm \
-    TimeService \
     libtime_genoff \
     libTimeService \
-    libmdmdetect \
     libperipheral_client \
     libscale \
+    shutdownlistener \
     qcrilmsgtunnel \
-    shutdownlistener
+    qcnvitems \
+    qcrilhook \
+    TimeService
+#    com.qualcomm.location \
+
+PRODUCT_PACKAGES += \
+    libqmi \
+    libmdmdetect \
+    libqmiservices \
+    libidl \
+    libqcci_legacy \
+    libdiag \
+    libqmi_client_qmux \
+    libdsutils 
 
 $(call inherit-product, vendor/nubia/nx507j/nx507j-vendor-blobs.mk)
