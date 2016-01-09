@@ -167,7 +167,7 @@ PRODUCT_COPY_FILES += \
     vendor/nubia/nx507j/proprietary/vendor/lib/libC2D2.so:system/vendor/lib/libC2D2.so \
     vendor/nubia/nx507j/proprietary/vendor/lib/libc2d30-a3xx.so:system/vendor/lib/libc2d30-a3xx.so \
     vendor/nubia/nx507j/proprietary/vendor/lib/libc2d30-a4xx.so:system/vendor/lib/libc2d30-a4xx.so \
-    vendor/nubia/nx505j/proprietary/vendor/lib/libc2d30.so:system/vendor/lib/libc2d30.so \
+    vendor/nubia/nx507j/proprietary/vendor/lib/libc2d30.so:system/vendor/lib/libc2d30.so \
     vendor/nubia/nx507j/proprietary/vendor/lib/libCB.so:system/vendor/lib/libCB.so \
     vendor/nubia/nx507j/proprietary/vendor/lib/libchromatix_imx132_common.so:system/vendor/lib/libchromatix_imx132_common.so \
     vendor/nubia/nx507j/proprietary/vendor/lib/libchromatix_imx132_default_video.so:system/vendor/lib/libchromatix_imx132_default_video.so \
