@@ -90,6 +90,7 @@ PRODUCT_COPY_FILES += \
     vendor/zte/nx507j/proprietary/lib/libFNVfbEngineLib.so:system/lib/libFNVfbEngineLib.so \
     vendor/zte/nx507j/proprietary/lib/libImageAlogrithm.so:system/lib/libImageAlogrithm.so \
     vendor/zte/nx507j/proprietary/lib/libSFB.so:system/lib/libSFB.so \
+    vendor/zte/nx507j/proprietary/lib/libbuffer_manager.so:system/lib/libbuffer_manager.so \
     vendor/zte/nx507j/proprietary/vendor/lib/egl/eglsubAndroid.so:system/vendor/lib/egl/eglsubAndroid.so \
     vendor/zte/nx507j/proprietary/vendor/lib/egl/libEGL_adreno.so:system/vendor/lib/egl/libEGL_adreno.so \
     vendor/zte/nx507j/proprietary/vendor/lib/egl/libGLESv1_CM_adreno.so:system/vendor/lib/egl/libGLESv1_CM_adreno.so \
