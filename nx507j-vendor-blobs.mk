@@ -127,7 +127,7 @@ PRODUCT_COPY_FILES += \
     vendor/zte/nx507j/proprietary/bin/sensors.qcom:system/bin/sensors.qcom \
     vendor/zte/nx507j/proprietary/lib/hw/sensors.oem.so:system/lib/hw/sensors.oem.so \
     vendor/zte/nx507j/proprietary/vendor/lib/hw/sensors.msm8974.so:system/vendor/lib/hw/sensors.msm8974.so \
-    vendor/zte/nx507j/proprietary/bin/thermal-engine:system/bin/thermal-engine \
+    vendor/zte/nx507j/proprietary/vendor/bin/thermal-engine:system/vendor/bin/thermal-engine \
     vendor/zte/nx507j/proprietary/vendor/lib/libacdbloader.so:system/vendor/lib/libacdbloader.so \
     vendor/zte/nx507j/proprietary/vendor/lib/libacdbmapper.so:system/vendor/lib/libacdbmapper.so \
     vendor/zte/nx507j/proprietary/vendor/lib/libacdbrtac.so:system/vendor/lib/libacdbrtac.so \
