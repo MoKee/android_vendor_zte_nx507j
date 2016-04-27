@@ -19,7 +19,6 @@ PRODUCT_COPY_FILES += \
     vendor/zte/nx507j/proprietary/bin/fmconfig:system/bin/fmconfig \
     vendor/zte/nx507j/proprietary/bin/mpdecision:system/bin/mpdecision \
     vendor/zte/nx507j/proprietary/bin/perfd:system/bin/perfd \
-    vendor/zte/nx507j/proprietary/bin/pfm:system/bin/pfm \
     vendor/zte/nx507j/proprietary/bin/uiautomator:system/bin/uiautomator \
     vendor/zte/nx507j/proprietary/bin/gpsone_daemon:system/bin/gpsone_daemon \
     vendor/zte/nx507j/proprietary/bin/tp_node.sh:system/bin/tp_node.sh \
