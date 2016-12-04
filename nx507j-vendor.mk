@@ -38,6 +38,7 @@ PRODUCT_PACKAGES += \
     libqcci_legacy \
     libdiag \
     libqmi_client_qmux \
-    libdsutils 
+    libdsutils \
+    libuiblur
 
 $(call inherit-product, vendor/zte/nx507j/nx507j-vendor-blobs.mk)

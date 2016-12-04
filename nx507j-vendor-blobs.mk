@@ -544,6 +544,7 @@ PRODUCT_COPY_FILES += \
     vendor/zte/nx507j/proprietary/vendor/lib/libTimeService.so:system/vendor/lib/libTimeService.so \
     vendor/zte/nx507j/proprietary/vendor/lib/libtzdrmgenprov.so:system/vendor/lib/libtzdrmgenprov.so \
     vendor/zte/nx507j/proprietary/vendor/lib/libulp2.so:system/vendor/lib/libulp2.so \
+    vendor/zte/nx507j/proprietary/vendor/lib/libuiblur.so:system/vendor/lib/libuiblur.so \
     vendor/zte/nx507j/proprietary/vendor/lib/libvendorconn.so:system/vendor/lib/libvendorconn.so \
     vendor/zte/nx507j/proprietary/vendor/lib/libxml.so:system/vendor/lib/libxml.so \
     vendor/zte/nx507j/proprietary/vendor/lib/libxtadapter.so:system/vendor/lib/libxtadapter.so \
